@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./social-links-profile-screeshot.jpg)
+![screenshot of my solution](./social-links-profile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Elvys-c](https://github.com/Elvys-c)
+- Live Site URL: [https://elvys-c.github.io/social-links-profile/](https://elvys-c.github.io/social-links-profile/)
 
 ## My process
 
@@ -52,4 +52,4 @@ I want to improve my ability positionnement of HTML elements.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Elvys-c](https://www.frontendmentor.io/profile/Elvys-c)
