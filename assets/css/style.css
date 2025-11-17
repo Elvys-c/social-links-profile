@@ -65,7 +65,8 @@ img {
 }
 
 .button:hover, .button:focus {
-    background-color: var(--tertiary-color);
+    background-color: var(--yellowgreen-color);
+    color: var(--tertiary-color);
 }
 
 .attribution { 
