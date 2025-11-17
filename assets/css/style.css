@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+:root {
+    --primary-color: hsl(0, 0%, 20%);
+    --secondary-color: hsl(0, 0%, 12%);
+    --tertiary-color: hsl(0, 0%, 8%);
+    --white-color: hsl(0, 0%, 100%);
+    --yellowgreen-color: hsl(75, 94%, 57%);
+}
+
+body {
+    background-color: var(--tertiary-color);
+    color: var(--white-color);
+    min-height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+header {
+ text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 115px;
+    height: 115px;
+}
+
+.container {
+    max-width: 375px;
+    padding: 24px;
+    background-color: var(--secondary-color);
+    border-radius: 15px;
+}
+
+.address {
+    color: var(--yellowgreen-color);
+    font-weight: 600;
+}
+
+.aboutme{
+    margin: 15px;
+}
+.button {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    padding: 14px 12px;
+    border: 4px;
+    display: block;
+    margin: 15px 0;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.button:hover, .button:focus {
+    background-color: var(--tertiary-color);
+}
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
